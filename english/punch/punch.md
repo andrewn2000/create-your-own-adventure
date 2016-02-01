@@ -8,4 +8,4 @@ What do you do?
 
 [Burst into song](sing/sing.md)
 
-[Sit down to meditate](../sit-down-to-meditate/sit-down-to-meditate.md)
+[Sit down to meditate](../sleep/sit-down-to-meditate/sit-down-to-meditate.md)
